@@ -1,0 +1,57 @@
+.container {
+  width: 70%;
+  margin: auto;
+  text-align: center;
+}
+
+.dice {
+  text-align: center;
+  display: inline-block;
+
+}
+
+body {
+  background-color: #393E46;
+  height: 100vh !important;
+    align-content: center !important;
+}
+
+h1 {
+  margin: 30px;
+  font-family: 'Lobster', cursive;
+  text-shadow: 5px 0 #232931;
+  font-size: 8rem;
+  color: #4ECCA3;
+}
+
+p {
+  font-size: 2rem;
+  color: #4ECCA3;
+  font-family: 'Indie Flower', cursive;
+}
+
+img {
+  width: 80%;
+}
+
+footer {
+  margin-top: 5%;
+  color: #EEEEEE;
+  text-align: center;
+  font-family: 'Indie Flower', cursive;
+
+}
+footer a{
+  text-decoration: none;
+  color: #fff;
+}
+#playBtn{
+    background-color: #4ECCA3;
+    border: none;
+    color: #ffffff;
+    border-radius: 5px;
+    text-shadow: #232931 2px 2px 4px;
+    text-transform: uppercase;
+    width: 38%;
+    margin-top: 20px;
+}
